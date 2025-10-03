@@ -1,6 +1,4 @@
-# Data Analysis
-
-# `data_cleaning_auto.py`
+# Data Analysis with car data
 
 ## Overview
 
